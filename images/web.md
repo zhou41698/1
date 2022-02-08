@@ -1,6 +1,6 @@
 本网站的分站
 
-[总盘](https://om.ylyg.ml) 
+[总盘](https://al.ylyg.ml) 
 
 [动漫盘](https://ani.ylyg.ml) 里边除了里番，剩下的动漫还在 搬运中，大部分是mkv格式，浏览器可能无法播放，安卓请使用MXplayer，Windows使用potplayer，Mac~~（穷逼一个，没用过
 
