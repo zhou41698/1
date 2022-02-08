@@ -23,7 +23,8 @@ html {
     -webkit-text-size-adjust: none
 }
 
-body, html {
+body,
+html {
     height: 100%;
     margin: 0;
     padding: 0;
@@ -31,7 +32,7 @@ body, html {
 }
 
 body {
-    font-family: Comic Sans MS, Helvetica Neue, Microsoft Yahei, -apple-system, sans-serif !important;
+    font-family: Comic Sans MS, Helvetica Neue, Microsoft Yahei, -apple-system, sans-serif!important;
     -ms-flex-align: center;
     align-items: center;
     -ms-flex-pack: center;
@@ -57,11 +58,12 @@ img {
 }
 
 body {
-    cursor: url("/static/images/default.cur"), auto !important
+    cursor: url("/static/images/default.cur"), auto!important
 }
 
-a, img {
-    cursor: url("/static/images/pointer.cur"), auto !important
+a,
+img {
+    cursor: url("/static/images/pointer.cur"), auto!important
 }
 
 a {
@@ -82,7 +84,7 @@ a {
     height: 1.5em;
     margin: 0 auto;
     fill: currentColor;
-    font-family: iconfont !important;
+    font-family: iconfont!important;
     font-size: inherit;
     font-style: normal;
     -webkit-font-smoothing: antialiased;
@@ -125,7 +127,8 @@ main {
     overflow: hidden
 }
 
-.content, main {
+.content,
+main {
     height: 100vh;
     width: 100%;
     position: relative
@@ -146,7 +149,8 @@ main {
     position: relative
 }
 
-.content-inner, .wrap {
+.content-inner,
+.wrap {
     width: 100%;
     height: 100vh
 }
@@ -193,7 +197,7 @@ main {
     text-shadow: #452d2d 0 0 1px, #fffffb 0 0 1px, #fffffb 0 0 2px
 }
 
-@media screen and (max-width: 50em) {
+@media screen and (max-width:50em) {
     .content-title {
         font-size: 2em
     }
@@ -225,7 +229,8 @@ main {
     z-index: 999
 }
 
-.enter:focus, .enter:hover {
+.enter:focus,
+.enter:hover {
     color: var(--color-link-hover)
 }
 
@@ -245,7 +250,8 @@ main {
     animation: arrow-movement 2s 1s ease-in-out infinite
 }
 
-.arrow:after, .arrow:before {
+.arrow:after,
+.arrow:before {
     background: #fff;
     content: "";
     display: block;
@@ -502,7 +508,8 @@ main {
     border-radius: 5px
 }
 
-#card h1, #card h2 {
+#card h1,
+#card h2 {
     margin: 0;
     font-weight: 400;
     transform: translateY(-20px)
@@ -546,7 +553,8 @@ main {
     transition: background-color .3s ease, top .5s ease, left .5s ease, width .5s ease, height .5s ease
 }
 
-#card li#half-first, #card li.quarter {
+#card li#half-first,
+#card li.quarter {
     height: 95px;
     line-height: 95px;
     font-size: 2rem
@@ -652,217 +660,189 @@ li#quarter-first span {
     top: 0
 }
 
-@media (min-width: 801px) {
-    #card, #card ul {
+@media(min-width:801px) {
+    #card,
+    #card ul {
         width: 725px
     }
-
     #card ul {
         height: 200px;
         transition: width .5s ease
     }
-
     #card header {
         position: absolute;
         top: -105px
     }
-
     #whole-second {
         left: 210px;
         top: 0
     }
-
     #half-first {
         left: 420px;
         top: 0
     }
-
     #quarter-first {
         left: 630px;
         top: 0
     }
-
     #quarter-second {
         left: 420px;
         top: 105px
     }
-
     #quarter-third {
         left: 525px;
         top: 105px
     }
-
     #quarter-fourth {
         left: 630px;
         top: 105px
     }
 }
 
-@media (min-width: 641px) and (max-width: 800px) {
-    #card, #card ul {
+@media(min-width:641px) and (max-width:800px) {
+    #card,
+    #card ul {
         transition: width .5s ease
     }
 }
 
-@media (min-width: 551px) and (max-width: 800px) {
-    #card, #card ul {
+@media(min-width:551px) and (max-width:800px) {
+    #card,
+    #card ul {
         width: 515px
     }
-
     #card ul {
         height: 305px
     }
-
     #whole-second {
         left: 210px;
         top: 0
     }
-
     #card li#half-first {
         left: 0;
         top: 210px;
         width: 305px
     }
-
     #quarter-first {
         left: 315px;
         top: 210px
     }
-
     #quarter-second {
         left: 420px;
         top: 0
     }
-
     #quarter-third {
         left: 420px;
         top: 105px
     }
-
     #quarter-fourth {
         left: 420px;
         top: 210px
     }
 }
 
-@media (min-width: 451px) and (max-width: 550px) {
-    #card, #card ul {
+@media(min-width:451px) and (max-width:550px) {
+    #card,
+    #card ul {
         width: 410px
     }
-
     #card ul {
         height: 410px
     }
-
     #whole-second {
         left: 210px;
         top: 0
     }
-
     #card li#half-first {
         left: 0;
         top: 210px;
         width: 410px
     }
-
     #quarter-first {
         left: 210px;
         top: 315px
     }
-
     #quarter-second {
         left: 0;
         top: 315px
     }
-
     #quarter-third {
         left: 105px;
         top: 315px
     }
-
     #quarter-fourth {
         left: 315px;
         top: 315px
     }
 }
 
-@media (max-width: 480px) {
-    #card, #card ul {
+@media(max-width:480px) {
+    #card,
+    #card ul {
         transition: none
     }
 }
 
-@media (max-width: 450px) {
+@media(max-width:450px) {
     #card {
         width: 100%;
         height: 100%;
         padding: 10px
     }
-
     #card ul {
         width: 0;
         height: 0;
         padding: 50%
     }
-
     #card li {
         width: 49%;
         height: 49%
     }
-
     #card li#half-first {
         width: 100%;
         height: 23.5%
     }
-
     #card li.quarter {
         width: 23.5%;
         height: 23.5%
     }
-
     #card li a {
         position: absolute;
         left: 0;
         top: 0
     }
-
     #whole-second {
         left: 51%;
         top: 0
     }
-
     #card li#half-first {
         left: 0;
         top: 51%
     }
-
     #quarter-first {
         left: 51%;
         top: 76.5%
     }
-
     #quarter-second {
         left: 0;
         top: 76.5%
     }
-
     #quarter-third {
         left: 25.5%;
         top: 76.5%
     }
-
     #quarter-fourth {
         left: 76.5%;
         top: 76.5%
     }
 }
 
-@media (max-width: 320px) {
+@media(max-width:320px) {
     #card li {
         line-height: 147px
     }
-
-    #card li.quarter, #half-first {
+    #card li.quarter,
+    #half-first {
         line-height: 70px
     }
 }
