@@ -10,6 +10,16 @@ Onedrive 嫖的微软的，vps嫖的微软的，域名也 嫖了微软的（不�
 
 <img src="https://img.icons8.com/color/96/000000/google-logo.png"/>
 
+由于资源存放很乱，现在这里分下类
+<a href="https://al.ylyg.ml/Gal/OnedriveXbot">galgame</a>
+<a href="https://al.ylyg.ml/h">别人搜集的片</a>
+<a href="https://al.ylyg.ml/H/R18">自己搜集的片</a>
+<a href="https://al.ylyg.ml/H/R18/%E6%9D%8E%E6%B0%B8%E4%B9%90%E7%89%A9%E7%90%86">李永乐物理</a>
+<a href="https://al.ylyg.ml/H/R18/Outrageous%20Acts%20of%20Science%201-2">令人发指的科学行为(科普节目)</a>
+<a href="https://al.ylyg.ml/%E7%94%B5%E5%BD%B1/Disney%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86">迪士尼国家地理</a>
+<a href="https://al.ylyg.ml/%E7%94%B5%E5%BD%B1/%E8%B1%86%E7%93%A3%E5%89%8D250">豆瓣前250</a>
+
+
 再次感谢Xhofe大佬的项目[alist](https://github.com/Xhofe/alist)
 
 下面是我的联系方式
